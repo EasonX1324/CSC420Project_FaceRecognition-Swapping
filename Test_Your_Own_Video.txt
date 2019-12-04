@@ -1,0 +1,16 @@
+1. Open the .ipynb file in Google Colab
+
+2. Locate to your drive, make sure that you have our shared drives added to your google drive. (See Google_Drive_Link.txt)
+
+3. In the project.ipynb, the model is commented clearly.
+Initial net, Ver1 net provide results that is not good enough
+
+Ver2 net, Ver2 net takes rgb, Ver2 rgb new are good to run, just folow the instructions in the colab note.
+For Ver3 net you need to uncomment some line in function predict_face
+
+All the .f5 training weights are under second google drive: project/trained_weights
+
+If you have any questions, feel free to email any of us;
+xyc1324@gamil.com
+yimingz.zhang@mail.utoronto.ca
+kaijun.wang@mail.utoronto.ca
