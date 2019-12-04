@@ -1,0 +1,12 @@
+1. For loading training datasets to the colab, using the following google drive 
+link and share it on your own google drive, when running the first cell, locate to your google drive and all the data is under drive/My Drive/project
+
+2. For the second drive link, we have our recognition and swapping videos and several screenshots of pictures of prediction as results for our methods.
+
+
+
+1. For training RGB datasets: 
+https://drive.google.com/drive/u/0/folders/114DlHZQPu15SgxJnyTpDRvfTR7UG_cS-
+
+2. For training Grayscale datasets:
+https://drive.google.com/open?id=1RNpTPPmeod7rv363vQz9enuKLedMNIKp
